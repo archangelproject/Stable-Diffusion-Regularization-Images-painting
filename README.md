@@ -19,9 +19,9 @@ Currently this folder contains 1431 images of painting generated with the follow
 
 ## painting_klms
 
-This repository is still in progress of completion. Currently contains 1755 pictures of landscapes and portraits. The pictures have been generated with different painters and styles to have more variety during the training.
+This repository is still in progress of completion. Currently contains 3084 pictures of landscapes, portraits and castles. The pictures have been generated with different painters and styles to have more variety during the training.
 
-All the pictures that are being uploaded to this repository has been inspected to remove painting with frames, poor quality, watermarks or unartistic artifacts. (562 pictures has been rejected only during the landscape paintings generation).
+All the pictures that are being uploaded to this repository has been inspected to remove painting with frames, poor quality, watermarks or unartistic artifacts. (895 pictures has been rejected so far).
 
 | Parameters |  |
 |--|--|
